@@ -1,0 +1,6 @@
+@PhotoBoardApi_HostAddress = http://localhost:5229
+
+GET {{PhotoBoardApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
